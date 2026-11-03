@@ -37,30 +37,28 @@ Currently Exploring
 
 🛠️ Projects
 
-AI Business HQ
+🛠️ Featured Projects
 
-An application project focused on building a digital workspace for business and AI-assisted workflows.
+1. AI Business HQ
 
-UsahaOS
+A digital workspace project focused on business management, task organization, and AI-assisted workflows.
 
-A business management application project designed to support operational activities and business management.
+Tech Stack: Next.js, TypeScript, Prisma, PostgreSQL, Auth.js
 
-Emp3
+"View Repository" (https://github.com/fvamous/ai-business-hq)
 
-An Android music player project focused on music library management and playback experience.
+2. UsahaOS
 
-🎯 Current Focus
+A business management application designed to support operational workflows and business administration.
 
-- Building and improving web applications.
-- Strengthening full-stack development skills.
-- Working with databases and application architecture.
-- Exploring practical AI integration.
-- Developing useful digital products.
+Tech Stack: Next.js, TypeScript, Prisma, PostgreSQL
 
-📫 Connect With Me
+"View Repository" (https://github.com/fvamous/UsahaOS)
 
-- GitHub: https://github.com/fvamous
+3. Emp3
 
----
+An Android music player application focused on music library management and playback experience.
 
-Learning, building, and improving one project at a time.
+Tech Stack: Android Studio, Java/Kotlin, Media3
+
+"View Repository" (https://github.com/fvamous/Emp3)
