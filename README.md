@@ -35,7 +35,6 @@ Currently Exploring
 - AI-powered Applications
 - AI Agent Workflows
 
-🛠️ Projects
 
 🛠️ Featured Projects
 
