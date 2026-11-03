@@ -35,29 +35,44 @@ Currently Exploring
 - AI-powered Applications
 - AI Agent Workflows
 
-
 🛠️ Featured Projects
 
-1. AI Business HQ
+AI Business HQ
 
 A digital workspace project focused on business management, task organization, and AI-assisted workflows.
 
 Tech Stack: Next.js, TypeScript, Prisma, PostgreSQL, Auth.js
 
-"View Repository" (https://github.com/fvamous/ai-business-hq)
+Status: Private repository — currently under development.
 
-2. UsahaOS
+UsahaOS
 
 A business management application designed to support operational workflows and business administration.
 
 Tech Stack: Next.js, TypeScript, Prisma, PostgreSQL
 
-"View Repository" (https://github.com/fvamous/UsahaOS)
+Status: Private repository — currently under development.
 
-3. Emp3
+Emp3
 
-An Android music player application focused on music library management and playback experience.
+An Android music player project focused on music library management and playback experience.
 
-Tech Stack: Android Studio, Java/Kotlin, Media3
+Tech Stack: Android Development, Media3
 
-"View Repository" (https://github.com/fvamous/Emp3)
+Status: Private repository — currently under development.
+
+🎯 Current Focus
+
+- Building and improving web applications.
+- Strengthening full-stack development skills.
+- Working with databases and application architecture.
+- Exploring practical AI integration.
+- Developing useful digital products.
+
+📫 Connect With Me
+
+- GitHub: https://github.com/fvamous
+
+---
+
+Learning, building, and improving one project at a time.
